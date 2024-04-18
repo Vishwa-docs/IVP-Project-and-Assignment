@@ -1,0 +1,13 @@
+jupyter
+jupyter_http_over_ws
+Pillow
+numpy
+pandas
+matplotlib
+seaborn
+opencv-contrib-python
+opencv-python
+scikit-learn
+scikit-image
+scipy
+imageio
